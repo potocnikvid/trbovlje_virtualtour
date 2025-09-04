@@ -1,0 +1,273 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2FE19979_1171_75E1_417E_AAAB72B804E8.source = https://www.facebook.com/visittrbovlje
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60938.04097685373!2d15.00363483167791!3d46.137305218745155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47656b56070afe09%3A0x95a51bb134458d68!2sOb%C4%8Dina%20Trbovlje!5e1!3m2!1ssl!2ssi!4v1754174322782!5m2!1ssl!2ssi
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64439.60463741977!2d15.03852734070295!3d46.3045851463372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765662cf20aa17f%3A0x48ccca5dbcb9149f!2sOb%C4%8Dina%20Polzela%2C%203313!5e1!3m2!1ssl!2ssi!4v1749393472069!5m2!1ssl!2ssi
+LinkBehaviour_55CBC465_00A8_0ED1_40FE_E144A0C560A0.source = https://www.tic-polzela.si/
+LinkBehaviour_C738E440_FFA8_0ECF_41B2_FC0C18600C58.source = https://www.tic-polzela.si/
+
+## Media
+
+### Audio
+audiores_BF5E6AF7_FF58_1BB1_41C1_2DECD62EA461.mp3Url = media/audio_BDBD98F2_FF58_07B3_41D1_9B943FB51CDD_en.mp3
+audiores_BF79F91F_FF58_0671_41C1_6E910CF113D9.mp3Url = media/audio_C374471F_FF58_0A71_41E0_6B0E57795A1A_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_74A48D0D_6CEF_3C1F_4190_388E188EC050.label = Cerkev-sv.Martina-1 copy
+panorama_74A4DD0A_6CEF_5C05_41D6_5612B36EC3BE.label = Cerkev-sv.Martina-2 copy
+panorama_F94204A1_EAD1_C362_41E1_D6B6E0456D37.label = Delavski-dom-Trbovlje-1 copy
+panorama_F942059B_EAD1_4D26_41E6_23B8A2F9821A.label = Delavski-dom-Trbovlje-2 copy
+panorama_F94256EB_EAD1_4CE6_41DD_645F59039F70.label = Delavski-dom-Trbovlje-3 copy
+panorama_F94217C5_EAD1_4D22_41BF_C4D7AEEB3DA3.label = Delavski-dom-Trbovlje-4 copy
+panorama_2A9B9307_0B72_916A_41A0_EBE4C356BACC.label = HOSTEL-TRBOVLJE-10 copy
+panorama_2A627D95_0BB3_B16E_419D_D1BEC8A8261A.label = HOSTEL-TRBOVLJE-10 copy
+panorama_2A9A26F7_0B75_90AA_419B_BC7529F14BDC.label = HOSTEL-TRBOVLJE-11 copy
+panorama_2810C8A4_0B75_B0AE_4173_7CCAC0691C58.label = HOSTEL-TRBOVLJE-12 copy
+panorama_2B5DCA92_0BB3_936A_418E_6C6443614D94.label = HOSTEL-TRBOVLJE-3 copy
+panorama_2B5D0C2B_0BB3_77BA_4167_96197B2FCEA2.label = HOSTEL-TRBOVLJE-5 copy
+panorama_2B5CCEB1_0BB2_90A6_41A1_B9C810CB1E21.label = HOSTEL-TRBOVLJE-6 copy
+panorama_2B529909_0BB2_F166_419C_AC4C4A2EF4ED.label = HOSTEL-TRBOVLJE-7 copy
+panorama_2B5CAFE3_0BB2_B0AA_41A6_7BE37CA106DA.label = HOSTEL-TRBOVLJE-8 copy
+panorama_2B54070A_0BB5_917A_41A4_43A02B7FF949.label = HOSTEL-TRBOVLJE-9 copy
+panorama_E212D9F1_FF1A_5E66_41E7_20683C32D524.label = LEDENICA-1 copy
+panorama_E44B2C03_FF16_D5AA_41EE_9E219F2A9230.label = LEDENICA-10 copy
+panorama_E44B5C5E_FF16_F65A_41D7_3C30CE995622.label = LEDENICA-11 copy
+panorama_E4541D4A_FF16_57BA_41EF_C7EDC4DA0E36.label = LEDENICA-12 copy
+panorama_E4579B73_FF16_726A_41C0_B2FB23901F80.label = LEDENICA-13 copy
+panorama_E4545DBE_FF15_B6DA_41C3_FCF428F80141.label = LEDENICA-14 copy
+panorama_E456ADEE_FF15_D67A_41E2_F08492C17D4F.label = LEDENICA-15 copy
+panorama_E454966E_FF16_527A_41ED_039247D64B6F.label = LEDENICA-2 copy
+panorama_E457866C_FF16_B27E_41DF_70B433865A27.label = LEDENICA-3 copy
+panorama_E454468B_FF16_D2BA_41ED_41B9F151C531.label = LEDENICA-4 copy
+panorama_E457E721_FF16_F3E6_41E1_E1D071211470.label = LEDENICA-5 copy
+panorama_E45448F8_FF16_DE66_41D2_3DD2A1326707.label = LEDENICA-6 copy
+panorama_E45798C2_FF16_BEAA_41EA_5659C5869E23.label = LEDENICA-7 copy
+panorama_E44B0C4A_FF16_D5BA_41A7_1610E5F33121.label = LEDENICA-8 copy
+panorama_E457DABC_FF16_52DE_41E7_E08AC4C6CB2D.label = LEDENICA-9 copy
+panorama_E454E822_FF17_DDEA_41A6_53B294EE9EB5.label = Nogometni-stadion-1 copy
+panorama_E454A97C_FF17_BE5E_41DB_6BEEE0D5A172.label = Nogometni-stadion-3 copy
+panorama_E45497E4_FF17_D26E_41E9_61E369DCB6EE.label = Nogometni-stadion-4 copy
+panorama_E4577683_FF16_72AA_41C3_5913170DF5C1.label = Nogometni-stadion-5 copy
+panorama_E454E759_FF17_F3A6_41E6_62F0C7F76733.label = Nogometni-stadion-6 copy
+panorama_E454E7A5_FF16_52EE_41B5_3465F2BDB02B.label = Nogometni-stadion-7 copy
+panorama_E454A830_FF17_BDE6_41D3_685F6FF03628.label = Nogometni-stadion-8 copy
+panorama_74A546E9_6CED_2C07_41C3_7FCFDFE7B483.label = TRBOVLJE-BAZEN-1 copy
+panorama_74A6A571_6CEE_EC07_41C2_E0A4FDC86A00.label = TRBOVLJE-BAZEN-2 copy
+panorama_74A6E186_6CEE_E40D_41A6_EEDE2008597D.label = TRBOVLJE-BAZEN-3 copy
+panorama_74A6D8FB_6CEF_25FB_41D4_00C31B1A9012.label = TRBOVLJE-BAZEN-4 copy
+panorama_74A7770C_6CEF_6C1D_41C4_4844BF655F25.label = TRBOVLJE-BAZEN-5 copy
+panorama_74A70499_6CEF_2C07_41B5_5D7406472FA0.label = TRBOVLJE-BAZEN-7 copy
+panorama_74A71562_6CEF_6C05_41A4_E2216A2E3D53.label = TRBOVLJE-BAZEN-8 copy
+panorama_74A4EA1F_6CEF_643B_4192_3EE501736550.label = TRBOVLJE-DDT-1 copy
+panorama_74A4D7CB_6CEF_2C1B_41DA_67E4F5931C6F.label = TRBOVLJE-DDT-2 copy
+panorama_74A45665_6CEF_2C0F_41C7_EFDB4C7A3344.label = TRBOVLJE-DDT-3 copy
+panorama_74A594DD_6CEE_EC3F_41AE_DABD879110CB.label = TRBOVLJE-DDT-4 copy
+panorama_74A5A2CC_6CEE_E41D_41D7_9AE251945D4F.label = TRBOVLJE-DDT-5 copy
+panorama_F940DB87_EAD0_C52E_41E5_46BB1268E160.label = TRBOVLJE-DDT-6 copy
+panorama_F9476ADB_EAD0_C726_41A8_992B5C034CDF.label = TRBOVLJE-DDT-7 copy
+panorama_74A703A4_6CEF_240D_41D9_B417B1E58EAF.label = TRBOVLJE-GRADIC-1 copy
+panorama_74A72151_6CEF_E407_41D7_F28FDA0410E7.label = TRBOVLJE-GRADIC-2 copy
+panorama_74A76EC9_6CEF_DC07_41CE_DD3F401D45F5.label = TRBOVLJE-GRADIC-3 copy
+panorama_F94201F0_EAD1_C4E2_41E0_2DC34A6CE413.label = TRBOVLJE-GRADIC-4 copy
+panorama_F94242DA_EAD1_C726_41E4_E03B9BBBE1BE.label = TRBOVLJE-GRADIC-5 copy
+panorama_2B405C7B_1473_ED9A_4174_8B51F5F52282.label = TRBOVLJE-KOLONIJA-NJIVA-KUHINJA-1 copy
+panorama_FF69FB0C_EAD1_4522_41E9_18842EB85DCC.label = TRBOVLJE-KOLONIJA-NJIVA-KUHINJA-1 copy
+panorama_27273FC3_1473_AAEA_41AC_4D19C6FD00E1.label = TRBOVLJE-KOLONIJA-NJIVA-KUHINJA-2 copy
+panorama_F94D0D99_EAD0_FD22_41EA_5428F345551F.label = TRBOVLJE-KOLONIJA-NJIVA-KUHINJA-2 copy
+panorama_F94D7A50_EAD0_C722_41C9_95AFE7DE1AD5.label = TRBOVLJE-KOLONIJA-NJIVA-SPALNICA-1 copy
+panorama_272410CD_1473_96FE_4198_B2CDCF9E5D17.label = TRBOVLJE-KOLONIJA-NJIVA-SPALNICA-1 copy
+panorama_F94D5BBB_EAD0_C566_41CA_804BAF8AFD5B.label = TRBOVLJE-KOLONIJA-NJIVA-SPALNICA-2 copy
+panorama_272740BD_1473_B69E_4135_A38497C99C5C.label = TRBOVLJE-KOLONIJA-NJIVA-SPALNICA-2 copy
+panorama_749CE4A9_6CD2_EC07_41C3_C34D322ECB3B.label = TRBOVLJE-KUM-1 copy
+panorama_749C93DB_6CD3_243B_41D9_D5F7EEBFFDF6.label = TRBOVLJE-KUM-2 copy
+panorama_749D3285_6CD3_240F_41DA_01DE20942516.label = TRBOVLJE-KUM-4 copy
+panorama_74A5911C_6CED_243D_41C6_20FB3C475CCC.label = TRBOVLJE-MUZEJ-1 copy
+panorama_F9473B70_EAD0_C5E2_41DB_56E9A202DFA1.label = TRBOVLJE-OBCINA-1 copy
+panorama_F9464AD4_EAD0_C722_41DD_94086C8B80ED.label = TRBOVLJE-OBCINA-2 copy
+panorama_E4E43C49_FFED_D5A6_41ED_0963CDB59654.label = TRBOVLJE-PANORAMA-1
+panorama_E4ECF90E_FFEA_FFBA_41DD_6C505BB23E1C.label = TRBOVLJE-PANORAMA-10
+panorama_E3CE09CE_FFFB_DEBA_41EA_98CA728009C5.label = TRBOVLJE-PANORAMA-11
+panorama_DFD0640D_FFFA_75BE_41D7_1BACD9F76DE1.label = TRBOVLJE-PANORAMA-2
+panorama_E4EBA9B8_FFED_BEE6_41B5_112B12915E7A.label = TRBOVLJE-PANORAMA-3
+panorama_E4E3C77B_FFEA_525A_41EC_FFBFA51DB314.label = TRBOVLJE-PANORAMA-4
+panorama_E4EC052C_FFEA_77FE_41C3_609224F803D0.label = TRBOVLJE-PANORAMA-5
+panorama_E4EC02F0_FFEA_5266_41B8_3BE6F3B4A3A2.label = TRBOVLJE-PANORAMA-6
+panorama_E4EC005E_FFEA_4E5A_41EE_FF0F3387EFC2.label = TRBOVLJE-PANORAMA-7
+panorama_E4EC0E00_FFEA_B5A6_41C1_44E40719D5FC.label = TRBOVLJE-PANORAMA-8
+panorama_E4EC9B6D_FFEA_D27E_41E8_5D4A64B9811A.label = TRBOVLJE-PANORAMA-9
+panorama_E3ED366C_FF2B_F27E_41EE_6FC16C2B0656.label = TRBOVLJE-PANORAMA-BAZEN
+panorama_E4EC96F2_FFEA_D26A_41C9_E2F027E8A031.label = TRBOVLJE-PANORAMA-DIMNIK-1
+panorama_E4ECB50B_FFEA_B7BA_41CF_009BF2356FC7.label = TRBOVLJE-PANORAMA-DIMNIK-2
+panorama_749DC981_6CD2_E407_41D4_B3D3D31DDAAC.label = TRBOVLJE-PANORAMA-HISA-PLANINA-1
+panorama_749F0864_6CD2_E40D_41D9_3A375B1BFAE0.label = TRBOVLJE-PANORAMA-HISA-PLANINA-2
+panorama_749EA4A5_6CD3_2C0F_41A7_47C08152BB13.label = TRBOVLJE-PANORAMA-KIPE
+panorama_752EC905_6CD5_240F_41B8_A0A11DAA130A.label = TRBOVLJE-PANORAMA-KUM-1
+panorama_E4E43E53_FFED_F5AA_41E2_D258E694020C.label = TRBOVLJE-PANORAMA-MRZLICA
+panorama_E3FBAE2E_FFED_B5FA_41E5_868F309A706A.label = TRBOVLJE-PANORAMA-RUDAR
+panorama_74A3EEA1_6CED_7C07_4182_27E9626B5B24.label = TRBOVLJE-PROMETEJ-RUDAR-1 copy
+panorama_74A3DC16_6CED_5C0D_41B5_2DFE591010BD.label = TRBOVLJE-PROMETEJ-RUDAR-2 copy
+panorama_74A39AF9_6CED_2407_41D7_EC9E75750541.label = TRBOVLJE-PROMETEJ-RUDAR-3 copy
+panorama_749C770D_6CD2_EC1F_41DA_9433327A2430.label = TRBOVLJE-PROMETEJ-RUDAR-4 copy
+panorama_F94D2CBB_EAD0_C366_41EB_BF6E6727E6F0.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-1 copy
+panorama_F9434C0E_EAD1_433E_41D4_DE01C9FA2954.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-2 copy
+panorama_F9430D3D_EAD1_5D62_41E6_59EA8A0B75DF.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-3 copy
+panorama_F943AEBE_EAD1_7F5E_41DE_73404B7097E0.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-4 copy
+panorama_F9438042_EAD1_4326_41C8_83BFD530059B.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-5 copy
+panorama_F943C23A_EAD1_4766_41E2_7A68F4A395FA.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-6 copy
+panorama_F9439139_EAD1_C562_41C8_1D5D2A97A958.label = TRBOVLJE-VIRTUALNI-MUZEJ-RUDARSTVA-7 copy
+panorama_2A4CDEFF_0B92_F09A_4193_CA55050A43C8.label = Trboveljski-Dimnik-1 copy
+panorama_74A5BC8C_6CED_7C1D_4160_F592D07AAFBB.label = Trbovlje-Dom-na-Mrzlici-1 copy
+panorama_74A599C4_6CED_240D_419D_C8AEF693E29D.label = Trbovlje-Dom-na-Mrzlici-2 copy
+panorama_74AAE611_6CED_2C07_41D7_18E5B1D87A22.label = Trbovlje-Hiša-Planina-1 copy
+panorama_74AAF2F7_6CED_240B_41D9_6ACD106AF738.label = Trbovlje-Hiša-Planina-2 copy
+panorama_74AA51D3_6CED_E40B_41A7_A36F290BE4BA.label = Trbovlje-Hiša-Planina-3 copy
+panorama_74AA506D_6CED_E41F_41BE_90D77A74E393.label = Trbovlje-Hiša-Planina-4 copy
+panorama_74AA5113_6CED_240B_41CD_6254EE612FC9.label = Trbovlje-Hiša-Planina-5 copy
+panorama_74A41D35_6CED_7C0F_41CB_6C05D32EE845.label = Trbovlje-KolonijaNjiva-1 copy
+panorama_74A41E46_6CED_5C0D_41D5_94E390EC1422.label = Trbovlje-KolonijaNjiva-2 copy
+panorama_74A4EBBD_6CED_247F_41C8_A28EF4F48AC0.label = Trbovlje-KolonijaNjiva-3 copy
+panorama_74A42979_6CED_2407_41D5_BA7D1C398A16.label = Trbovlje-KolonijaNjiva-4 copy
+panorama_74A38726_6CED_EC0D_41D4_BE11CC134050.label = Trbovlje-KolonijaNjiva-5 copy
+panorama_74A433F7_6CED_E40B_41CA_5A1C1853BEFA.label = Trbovlje-KolonijaNjiva-6 copy
+panorama_74A3B268_6CED_2405_4186_1558D115956E.label = Trbovlje-KolonijaNjiva-7 copy
+panorama_74A4107F_6CED_24FB_41D7_720EB4A13426.label = Trbovlje-KolonijaNjiva-8 copy
+panorama_74A91634_6CF3_2C0D_41D8_79DF7E0F37A9.label = Trbovlje-Mestni-Park-1 copy
+panorama_74A925AA_6CF3_2C05_41D2_0432A2EECF06.label = Trbovlje-Mestni-Park-2 copy
+panorama_74A9326B_6CF3_E41B_41C9_612E997B4653.label = Trbovlje-Mestni-Park-3 copy
+panorama_74A93F28_6CF3_DC05_41AE_A6846A3E7421.label = Trbovlje-Mestni-Park-4 copy
+panorama_74AABBD6_6CF3_240D_41D4_A3ADFC8D5564.label = Trbovlje-Mestni-Park-5 copy
+panorama_74AAD993_6CF3_640B_41C2_77E1118576DC.label = Trbovlje-Mestni-Park-6 copy
+panorama_74AAB772_6CF3_6C05_41B9_6ED8E657FF5E.label = Trbovlje-Mestni-Park-7
+panorama_74AAB553_6CF3_2C0B_41DA_8D5C1F4C7C09.label = Trbovlje-Mestni-Park-7 copy
+panorama_74ABA1F8_6CF2_E405_41CC_AA1D36C833C4.label = Trbovlje-Park-kulture-1 copy
+panorama_74AA6374_6CF3_240D_41CB_4CA84F994B85.label = Trbovlje-Park-kulture-2 copy
+panorama_74ABE0EB_6CF2_E41B_419C_4C2E8C2B58BD.label = Trbovlje-Park-kulture-3 copy
+panorama_74AA2DBB_6CED_3C7B_41C8_80EC2B38DC83.label = Trbovlje-Park-kulture-4 copy
+panorama_74AA0BBC_6CED_647D_41DA_EAC060217C60.label = Trbovlje-Park-kulture-5 copy
+panorama_74AA6902_6CED_6405_41B3_ED281CF7EEE6.label = Trbovlje-Park-kulture-6 copy
+panorama_74A5EF59_6CED_5C07_41BA_B8FD1DC7172A.label = Trbovlje-Športni-park-Kipe-1 copy
+panorama_F942597B_EAD1_45E6_41B1_84A5EC270CF0.label = Zasavski-Muzej-Trbovlje-1 copy
+panorama_F9472B2B_EAD7_4566_41DD_59753062EEC1.label = Zasavski-Muzej-Trbovlje-10 copy
+panorama_F9471C48_EAD7_C322_41EC_3B5AF1DE41A4.label = Zasavski-Muzej-Trbovlje-11 copy
+panorama_F9476DDB_EAD7_DD26_41E8_0872C8D6942A.label = Zasavski-Muzej-Trbovlje-12 copy
+panorama_F9471F4E_EAD7_FD3E_41E1_5A0857E87A27.label = Zasavski-Muzej-Trbovlje-13 copy
+panorama_F9471037_EAD7_C36E_41D6_B801A8BFDDAE.label = Zasavski-Muzej-Trbovlje-14 copy
+panorama_F947A286_EAD7_C72E_41D2_9A9F59B8DA98.label = Zasavski-Muzej-Trbovlje-15 copy
+panorama_F94734F5_EAD7_4CE2_41D7_B6E55BAA53D8.label = Zasavski-Muzej-Trbovlje-16 copy
+panorama_F9409787_EAD7_4D2E_41DC_CB440E0B17C3.label = Zasavski-Muzej-Trbovlje-17 copy
+panorama_F94749CD_EAD7_4522_41E5_12B91ADC56EA.label = Zasavski-Muzej-Trbovlje-18 copy
+panorama_F940FC54_EAD7_4322_41E7_43598684BBD5.label = Zasavski-Muzej-Trbovlje-19 copy
+panorama_F9420B84_EAD0_C522_41D8_4FA13D622C0E.label = Zasavski-Muzej-Trbovlje-2 copy
+panorama_F941CDD2_EAD0_DD26_41CD_C631DA88F357.label = Zasavski-Muzej-Trbovlje-3 copy
+panorama_F94141F7_EAD0_C4EE_41C2_BAA9773C4F87.label = Zasavski-Muzej-Trbovlje-4 copy
+panorama_F941DFBA_EAD0_FD66_41E0_E55382FEF32C.label = Zasavski-Muzej-Trbovlje-5 copy
+panorama_F9419412_EAD0_C326_41B6_A11015B6431A.label = Zasavski-Muzej-Trbovlje-6 copy
+panorama_F946C681_EAD7_4F22_41E0_266DD1E31353.label = Zasavski-Muzej-Trbovlje-7 copy
+panorama_F946B863_EAD7_43E6_41C9_2CED3AA9FB22.label = Zasavski-Muzej-Trbovlje-8 copy
+panorama_F9471A0E_EAD7_473E_41CD_758866BAC6D3.label = Zasavski-Muzej-Trbovlje-9 copy
+panorama_E4557AC2_FF16_52AA_41CC_32830E4BC74E.label = Športna-dvorana-Polaj-1 copy
+panorama_2BAB1A56_0BBE_F3EA_419C_A4FF8F413567.label = Športna-dvorana-Polaj-11 copy
+panorama_2BAC2943_0BBE_91EA_4192_7291A9E9953E.label = Športna-dvorana-Polaj-12 copy
+panorama_E44C4C53_FF16_75AA_41E3_D3FD9A46975D.label = Športna-dvorana-Polaj-2 copy
+panorama_E44CEC6E_FF16_567A_41E1_5D3ADDFEA6A2.label = Športna-dvorana-Polaj-3 copy
+panorama_E44CCC3F_FF16_B5DA_41AC_A4AC764D2F02.label = Športna-dvorana-Polaj-4 copy
+panorama_28C91216_0BBD_936A_41A6_5F39E7B4D220.label = Športna-dvorana-Polaj-7 copy
+panorama_2BAEBD36_0BBE_B1AA_4199_633AC80AAA0C.label = Športna-dvorana-Polaj-8 copy
+panorama_2BAC08B1_0BBE_90A6_4177_2A621F695DE7.label = Športna-dvorana-Polaj-9 copy
+
+## Popup
+
+### Body
+htmlText_3805AB28_1111_D56F_41AD_16506F601E28.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Cerkev Sv. Martina</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Župnijska cerkev svetega Martina v Trbovljah stoji na Trgu Franca Fakina in izvira iz 13. stoletja, današnjo podobo pa je dobila v 18. stoletju z glavno ladjo in prezbiterijem, prezidava pa je bila dokončana leta 1855. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cerkev ima tloris v obliki križa, bogato baročno notranjo opremo z glavnimi in stranskimi oltarji, poslikavo stropa Janeza Wolfa ter orgle, ki jih je leta 1996 izdelal Anton Škrabl. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ob cerkvi stoji tudi župnijski dom, staro župnišče iz leta 1718 ter nov prizidek iz leta 1993, ki poleg stanovanjskega dela nudi dvorano, veroučno sobo, pisarne in arhiv.</SPAN></DIV></BODY></HTML></div>
+htmlText_327A4E5C_10F7_CF27_41AD_CCC2DED6B4F9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Delavski dom Trbovlje</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">V središču Trbovelj stoji Delavski dom, zgrajen leta 1956 po načrtih arhitekta Marka Župančiča, kot simbol življenja v novem družbenem sistemu. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Pročelje krasi mozaik Marija Preglja, za katerega je prejel Prešernovo nagrado, notranjost pa ponuja dvorane, galerije in prostore za raznoliko umetniško ustvarjanje. </SPAN></DIV></BODY></HTML></div>
+htmlText_34ACF66C_1111_BFE7_41A9_FC0A0A99E411.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Dom na Mrzlici</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Planinski dom na Mrzlici stoji na nadmorski višini 1093 m med vrhovoma Mrzlice in ponuja prenočišča za 65 oseb v sobah in na skupnih ležiščih. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dostopen je z avtom ali po planinskih poteh iz Zasavja in Savinjske doline, v domu pa so tudi dve gostinski sobi s 100 sedeži.</SPAN></DIV></BODY></HTML></div>
+htmlText_378469AD_1111_7561_41A3_6FB7D7FC9CC0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Hiša Planina</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hiša Planina je domača gostilna v Trbovljah, kjer se tradicija domače kuhinje prepleta s prijetnim ambientom in gostoljubnostjo. Pripravljajo sveža, okusna kosila, prilagojena tudi za zaključene družbe in posebne priložnosti.</SPAN></DIV></BODY></HTML></div>
+htmlText_369C102B_1110_D361_4191_A281418791F9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Hostel Trbovlje</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hostel Zavoda za mladino in šport Trbovlje ponuja več kot nočitev – sobe, poimenovane po zasavskih hribih, predstavljajo naravno dediščino regije, prostor pa združuje različne kulture in dogodke. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hostel je prijazen za družine, invalide in živali, obenem pa nudi priložnosti za športne aktivnosti, od pohodništva in kolesarjenja do teka v rudniških rovih. </SPAN></DIV></BODY></HTML></div>
+htmlText_378900DF_1111_5321_41A8_0918DAAD6A46.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Kum</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kum si je kot najvišji zasavski vrh zaslužil tudi častitljiv vzdevek Zasavski Triglav. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Pod cerkvijo stoji planinski dom, ob njem pa travnik z igrali. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Območje, delno zaščiteno kot krajinski park, obsega 2.232 ha in ponuja oglede naravne in kulturne dediščine.</SPAN></DIV></BODY></HTML></div>
+htmlText_3351A0E7_10EF_F4E1_41B0_0C12AAD9BA43.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Letno kopališče Trbovlje</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Letno kopališče Trbovlje ponuja sprostitev in rekreacijo v osrčju Zasavja. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kompleks vključuje velik plavalni bazen, otroški bazen in bazenček za najmlajše. Poleg plavanja so obiskovalcem na voljo zelene površine ter možnosti za športne igre, kot so odbojka na mivki, namizni tenis in badminton. Na voljo so tudi otroška igrala.</SPAN></DIV></BODY></HTML></div>
+htmlText_321178E6_10F3_74E3_41A0_C87C661B26DB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Lovski gradič</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Gradič je najstarejša hiša v Trbovljah, zgrajena na temeljih lovskega gradiča celjskih grofov. Stavba je skozi čas služila kot gospoščinski urad, postojanka tobačnih nadzornikov in gostilna, vse dokler ni postala povezana z družino Arzenšek.</SPAN></DIV></BODY></HTML></div>
+htmlText_3AE6CE83_1131_CF21_41A9_0953C1F4895F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Mestni park</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Mestni park Trbovlje, zgrajen v 90. letih prejšnjega stoletja, je priljubljena točka za druženje in sprostitev. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Park ponuja poti, igrala in amfiteater ter je namenjen obiskovalcem vseh starosti.</SPAN></DIV></BODY></HTML></div>
+htmlText_3A640FE4_1111_CCE7_4190_11B746BC5E4C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Park Kulture</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Prenovljeno območje v Trbovljah v okviru projekta Inspiracija ohranja spomin na industrijsko in kulturno dediščino mesta ter gleda v prihodnost. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Pet kulturnih točk in skulptura monolit s hologramskimi portreti prebivalcev prikazujejo ustvarjalnost lokalne skupnosti. Prostor je namenjen druženju, informiranju obiskovalcev in prireditvam, ki povezujejo preteklost s sodobno vizijo Trbovelj.</SPAN></DIV></BODY></HTML></div>
+htmlText_32C00320_10F1_D51F_4197_34D0C0C617C7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Prometej</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Na pobočju Ostrega vrha stoji mogočen kip Rudar Prometej, posvečen generacijam Trboveljčanov, ki so živeli od rudarjenja. Deset metrov visoka in deset ton težka skulptura je narejena iz odpadnega jamskega železa, starega tudi več kot sto let. Ponoči kip zažari, laserski žarek iz njegove svetilke pa povezuje spomenik z rudarskim dvigalom na Gvidu.</SPAN></DIV></BODY></HTML></div>
+htmlText_31B67E18_10F0_CF2F_41AB_5DF8089251F3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Rudarska kolonija Njiva</B> </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Rudarska kolonija Njiva v središču Trbovelj skriva dve avtentični rudarski stanovanji, ki prikazujeta življenje rudarjev in njihovih družin. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Obiskovalci lahko stopijo v vsakdan rudarjev iz 20. in 60. let prejšnjega stoletja ter začutijo, kako so se oblikovali Rdeči revirji in identiteta naših dolin.</SPAN></DIV></BODY></HTML></div>
+htmlText_30F0ABB1_10FF_D561_4160_3F0C61959F38.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Trboveljski dimnik</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dimnik Termoelektrarne Trbovlje s 360 metri velja za najvišjo zgradbo v Sloveniji, najvišji dimnik v Evropi in sedmega na svetu. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Je mogočen simbol industrijske preteklosti, ki navdušuje obiskovalce ob vznožju in odpira prostor za razmislek o prihodnosti. Čeprav vzpon nanj ni dovoljen, je možen ogled z doživetjem virtualnega plezanja.</SPAN></DIV></BODY></HTML></div>
+htmlText_0D61B575_10F0_DDE1_41AA_25B99BAA8567.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Virtualni muzej rudarstva 4. dritl</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">4. dritl na sodoben način združuje rudarsko dediščino in digitalno tehnologijo – od VR in 3D projekcij do hologramov in interaktivnih vsebin. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Obiskovalci lahko vstopijo v svet rudarjev, raziskujejo rudniške rove, srečajo Perkmandeljca ter odkrijejo številne zanimivosti iz rudarskega vsakdana.</SPAN></DIV></BODY></HTML></div>
+htmlText_333DC897_10F0_D321_419C_507FFCE5C4FF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Zasavski muzej Trbovlje</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Medobčinski muzej za novejšo zgodovino prikazuje razvoj Zasavja skozi stalno razstavo Srečno…črne doline, likovna dela in avtentična rudarska stanovanja. </SPAN></DIV></BODY></HTML></div>
+htmlText_394694DB_1113_5321_41A5_00F2B92D732B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Športna dvorana Polaj</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Športna dvorana Polaj v Trbovljah je ena glavnih športnih in prireditvenih lokacij v Zasavju. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Namenjena je rokometu, košarki, odbojki in drugim športom ter je dom Rokometnega društva Rudar Trbovlje. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Dvorana se uporablja tudi za kulturne in družabne prireditve ter nudi sodobno infrastrukturo za treninge in tekme.</SPAN></DIV></BODY></HTML></div>
+htmlText_38D2119D_1110_B521_413B_9412E50531E6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Športni park Kipe</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Športni park Kipe v Trbovljah je namenjen rekreaciji in druženju na prostem. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ponuja različne športne površine in naprave za vadbo ter prostor za sproščeno rekreacijo. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Park je priljubljen tudi za organizacijo športnih in družabnih dogodkov.</SPAN></DIV></BODY></HTML></div>
+htmlText_396BF055_111F_7321_4159_5CA9E8A8BC16.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Športni park Ledenica</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Športni park Ledenica v Trbovljah je prenovljen prostor ob reki Trboveljščici, ki ponuja športne in rekreativne aktivnosti za vse generacije. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">V njem so največji skate park v Zasavju, motorik park, plezalni balvani in urejene tribune ob reki. Park povezuje simbolični Most športnih junakov.</SPAN></DIV></BODY></HTML></div>
+htmlText_3C55489B_1130_D321_41AB_84EDD22A9DAF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Športni park Rudar</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Športni park Rudar v Trbovljah je sodoben kompleks z nogometnim igriščem, atletskim stadionom in parkom ulične vadbe za rekreativne aktivnosti. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Obsega tudi štiristezno kegljišče, šahovsko sobo, prostore društev in gostinsko ponudbo. </SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_178F5EFF_2A8A_8441_41C2_4E08FD77B501_mobile.label = Delavski dom Trbovlje
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Delavski dom Trbovlje
+Button_2F232B31_1113_5561_4180_ADC8628CC11C_mobile.label = Dimnik Trbovlje
+Button_275B209B_0C76_B69A_41A2_0989F1C67A5D.label = Dimnik Trbovlje
+Button_2CCA2295_1113_5721_41AB_75BF3A479FA3_mobile.label = Dom na Mrzlici
+Button_2692878B_0C76_9B7A_41A3_7B9ADAEDE487.label = Dom na Mrzlici
+Button_277FBA19_0C76_9566_419D_8324440EB94D.label = Hiša Planina
+Button_2CD9A54F_1113_5D21_419B_E1021AD54ED0_mobile.label = Hiša Planina
+Button_274A6F03_0C76_AB6A_4187_24A3F334B90A.label = Kum
+Button_2CD4F79D_1113_5D21_41A2_0891A6464225_mobile.label = Kum
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_0243402D_2A8B_9BC1_41C0_142E74C42539.label = Letno kopališče Trbovlje
+Button_17ADD002_2A8B_BBC3_41A5_4ACD8BA58F52_mobile.label = Letno kopališče Trbovlje
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_62470708_4FA6_5614_41C9_552297F952AF_mobile.label = Lovski Gradič Trbovlje
+Button_272A12F9_0C76_BAA6_416A_21032B38C0C5.label = Lovski Gradič Trbovlje
+Button_2CFF9FF2_1113_4CE3_41AC_34AC39D2C989_mobile.label = Mestni park Trbovlje
+Button_27E4526E_0C57_95BA_417E_D222F19A2FD8.label = Mestni park Trbovlje
+Button_16F7D314_2A8B_9DC7_41B2_4815DCFDD878_mobile.label = Občinska stavba
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Občinska stavba
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Park kulture
+Button_169921C3_2A8B_9C41_41B3_39AD49FB3A90_mobile.label = Park kulture
+Button_24E57B1C_1476_AB9E_41A0_64F3131DE578.label = Rudar Prometej
+Button_2C8C7935_1113_7561_4184_B7520F419F13_mobile.label = Rudar Prometej
+Button_17BBC345_2A8B_BC41_41BD_5B91D8E2853E_mobile.label = Rudarska kolonija Njiva
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Rudarska kolonija Njiva
+Button_02654215_2A99_9FC1_41A7_3F31AF16C978.label = Virtualni muzej rudarstva 4. dritl
+Button_17B480E5_2A8B_BC41_41A1_4FFD7C8D35C0_mobile.label = Virtualni muzej rudarstva 4. dritl
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Zasavski muzej Trbovlje
+Button_1785D3D5_2A8B_BC41_41C1_2DDEBE1DCB39_mobile.label = Zasavski muzej Trbovlje
+Button_53EBAC80_4FEF_DA13_41D0_E0B28B28891F.label = Športna dvorana Polaj
+Button_16A6584D_2A8A_8C41_4194_D82E946F451B_mobile.label = Športna dvorana Polaj
+Button_023FC90B_2A8B_8DC1_41C4_82C1AD2E5396.label = Športni park Kipe
+Button_16820C19_2A8A_8BC1_41BD_FE16B54AB93A_mobile.label = Športni park Kipe
+Button_0714FA26_2A99_8FC0_41C2_2356C801C10F.label = Športni park Ledenica
+Button_16A89948_2A8A_8C4F_41BC_C376DBB6E1DB_mobile.label = Športni park Ledenica
+Button_022DBAA4_2A8B_8CC7_4183_FA0189A77CAA.label = Športni park Rudar
+Button_17A64F3C_2A8B_85C7_41A1_A8859F2A1796_mobile.label = Športni park Rudar
+
+### Image
+Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8.url = skin/Image_0303381E_2A86_8BC3_41A4_0985F5B7E1B8_en.png
+Image_04FC800C_2A9A_9BC7_41BA_856BC8261511.url = skin/Image_04FC800C_2A9A_9BC7_41BA_856BC8261511_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_158761A2_2A9A_9CC3_4162_94481DF0DC44.url = skin/Image_158761A2_2A9A_9CC3_4162_94481DF0DC44_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+
+### Label
+Label_04F6200E_2A9A_9BC3_41C3_6C80963A8250.text = START
+
+### Multiline Text
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999989vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.269999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.27vmin;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.369999999999989vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.570000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>OBČINA TRBOVLJE</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>https://www.VisitTrbovlje.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>Tel: +386 3 77 79 908</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>E- naslov: turizem@trbovlje.si </I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>Powered by Webvisit360</I></SPAN><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I> </I></SPAN><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I> </I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>OBČINA TRBOVLJE</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>https://www.VisitTrbovlje.si/</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel: +386 3 77 79 908</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>E- naslov: turizem@trbovlje.si </I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Powered by Webvisit360 </I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TRBOVLJE-VIRTUALNI SPREHOD-360
