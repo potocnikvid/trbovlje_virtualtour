@@ -6,8 +6,8 @@
 LinkBehaviour_2FE19979_1171_75E1_417E_AAAB72B804E8.source = https://www.facebook.com/visittrbovlje
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60938.04097685373!2d15.00363483167791!3d46.137305218745155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47656b56070afe09%3A0x95a51bb134458d68!2sOb%C4%8Dina%20Trbovlje!5e1!3m2!1ssl!2ssi!4v1754174322782!5m2!1ssl!2ssi
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64439.60463741977!2d15.03852734070295!3d46.3045851463372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765662cf20aa17f%3A0x48ccca5dbcb9149f!2sOb%C4%8Dina%20Polzela%2C%203313!5e1!3m2!1ssl!2ssi!4v1749393472069!5m2!1ssl!2ssi
-LinkBehaviour_55CBC465_00A8_0ED1_40FE_E144A0C560A0.source = https://www.tic-polzela.si/
-LinkBehaviour_C738E440_FFA8_0ECF_41B2_FC0C18600C58.source = https://www.tic-polzela.si/
+LinkBehaviour_55CBC465_00A8_0ED1_40FE_E144A0C560A0.source = https://www.visittrbovlje.si/
+LinkBehaviour_C738E440_FFA8_0ECF_41B2_FC0C18600C58.source = https://www.visittrbovlje.si/
 
 ## Media
 
